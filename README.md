@@ -14,7 +14,7 @@ Computer Science graduate and Python, Django, and Laravel developer focused on b
 
 **Languages:** Python, PHP, JavaScript, HTML, CSS, SQL  
 **Frameworks:** Django, Laravel  
-**Databases:** MySQL, SQLite  
+**Databases:** PostgreSQL, MySQL, SQLite  
 **Tools:** Git, GitHub, Jira, ClickUp, VS Code  
 **Other:** Excel data processing, data visualisation, financial reporting
 
